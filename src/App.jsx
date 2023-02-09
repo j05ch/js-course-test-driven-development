@@ -1,9 +1,5 @@
 function App() {
 
-function handleClick() {
-  return;
-}
-
   return (
     <>
     </>
